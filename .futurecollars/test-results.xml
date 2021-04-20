@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="4" failures="0" time="3.186">
+  <testsuite name="Funkcja colorizeElement" errors="0" failures="0" skipped="0" timestamp="2021-04-20T15:44:06" time="2.022" tests="4">
+    <testcase classname="Funkcja colorizeElement powinien zwrócić element HTML" name="Funkcja colorizeElement powinien zwrócić element HTML" time="0.009">
+    </testcase>
+    <testcase classname="Funkcja colorizeElement powinien zwrócić nowy element z klasą new-class" name="Funkcja colorizeElement powinien zwrócić nowy element z klasą new-class" time="0.001">
+    </testcase>
+    <testcase classname="Funkcja colorizeElement powinien zwrócić element z poprawnie ustawionym atrybutem data-tag" name="Funkcja colorizeElement powinien zwrócić element z poprawnie ustawionym atrybutem data-tag" time="0.003">
+    </testcase>
+    <testcase classname="Funkcja colorizeElement powinien zwrócić element z poprawnymi stylami" name="Funkcja colorizeElement powinien zwrócić element z poprawnymi stylami" time="0.032">
+    </testcase>
+  </testsuite>
+</testsuites>
